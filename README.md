@@ -1,3 +1,6 @@
+
+-----------------------------------------------------------------PROJECT - 1-------------------------------------------------------------------------
+
 # User Information Collector - Python Project
 
 ## 📌 Project Description
@@ -235,3 +238,91 @@ Created for learning Python fundamentals including input handling, data types, m
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
+
+
+
+
+
+
+-----------------------------------------------------------------PROJECT - 2-------------------------------------------------------------------------
+
+
+
+# 🎓 Student Data Organizer
+
+## 📌 Project Description
+Student Data Organizer is a simple Python project that helps manage student records. Users can add, view, update, and delete student information using a menu-driven program.
+
+This project is created using basic Python concepts and is suitable for beginners.
+
+---
+
+## ✨ Features
+- Add Student
+- Display Student Details
+- Update Student Age
+- Delete Student
+- Display Unique Subjects
+- Menu-Driven Program
+
+---
+
+## 🛠️ Technologies Used
+- Python 3
+- Match Case
+- List
+- Dictionary
+- Set
+- Tuple
+- Type Casting
+
+---
+
+## 📚 Python Concepts Used
+- Variables
+- Input and Output
+- List
+- Tuple
+- Dictionary
+- Set
+- String Formatting
+- Match Case
+- Loops
+- Conditional Statements
+- Type Casting
+- `del` Keyword
+
+---
+
+## ▶️ How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Run the program using:
+
+```bash
+python student_data_organizer.py
+```
+
+---
+
+## 📂 Project Structure
+
+```
+Student-Data-Organizer/
+│── student_data_organizer.py
+│── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**NILANCHAL BEHERA**
+
+---
+
+## 📄 License
+
+This project is created for learning and educational purposes.
