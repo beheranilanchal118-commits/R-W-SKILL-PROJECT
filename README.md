@@ -326,3 +326,207 @@ Student-Data-Organizer/
 ## 📄 License
 
 This project is created for learning and educational purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------Functional Treat--------------------------------------------------------------------
+
+
+
+# 📊 Data Analysis System
+
+A **Python Menu-Driven Data Analysis System** that performs various data analysis operations such as mathematical calculations, duplicate and unique value detection, factorial, Fibonacci series, lambda functions, arrays, and statistics.
+
+This project is developed using **Python** and demonstrates the practical implementation of **functions, recursion, lambda expressions, arrays, exception handling, and match-case statements**.
+
+---
+
+## 🚀 Features
+
+- 📥 Input integer data
+- 📋 Display data summary
+- ➕ Mathematical operations
+  - Length
+  - Maximum
+  - Minimum
+  - Sum
+  - Average
+- 🔁 Find duplicate values
+- ✨ Find unique values
+- 📦 Demonstration of `*args` and `**kwargs`
+- 🔢 Factorial using Recursion
+- 🌀 Fibonacci Series
+- ⚡ Lambda Functions
+  - Greater Than
+  - Less Than
+  - Square of Numbers
+- 📐 1D Array
+- 📊 2D Array
+- 📈 Statistics
+  - Minimum
+  - Maximum
+  - Average
+- 🔼 Ascending Sorting
+- 🔽 Descending Sorting
+- ⚠ Exception Handling
+- 🎯 Menu Driven Program using Match-Case
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3.x
+- Functions
+- User Defined Functions (UDF)
+- Recursion
+- Lambda Functions
+- map()
+- filter()
+- *args
+- **kwargs
+- Lists
+- Arrays
+- Match Case
+- Exception Handling
+
+---
+
+## 📂 Project Structure
+
+```
+Data-Analysis-System/
+│
+├── data_analysis_system.py
+└── README.md
+```
+
+---
+
+## ▶ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Data-Analysis-System.git
+```
+
+### 2. Open the Project Folder
+
+```bash
+cd Data-Analysis-System
+```
+
+### 3. Run the Program
+
+```bash
+python data_analysis_system.py
+```
+
+---
+
+## 📋 Main Menu
+
+```
+==================================================
+             DATA ANALYSIS SYSTEM
+==================================================
+
+1. Input Data
+2. Display Data Summary
+3. Maths Operation
+4. Duplicate & Unique Values
+5. Args & Kwargs
+6. Factorial & Fibonacci
+7. Lambda Function
+8. Arrays
+9. Statistics & Sorting
+0. Exit
+```
+
+---
+
+## 📌 Sample Output
+
+```
+Enter Choice (0-9): 1
+
+Enter Integer Numbers:
+10 20 30 20 40 50
+
+Data Stored Successfully.
+```
+
+```
+========== DATA SUMMARY ==========
+Data      : [10, 20, 30, 20, 40, 50]
+Length    : 6
+Maximum   : 50
+Minimum   : 10
+Sum       : 170
+Average   : 28.33
+```
+
+---
+
+## 📚 Concepts Covered
+
+- Python Functions
+- User Defined Functions
+- Recursion
+- Lambda Functions
+- map()
+- filter()
+- Lists
+- Arrays
+- Sorting
+- Statistics
+- Match Case Statement
+- Exception Handling
+
+---
+
+## 🎯 Learning Objectives
+
+This project helps beginners understand:
+
+- Writing reusable functions
+- Using recursion
+- Working with arrays
+- Applying lambda functions
+- Handling exceptions
+- Creating menu-driven applications
+- Performing basic data analysis using Python
+
+---
+
+## 🔮 Future Enhancements
+
+- CSV File Support
+- File Handling
+- NumPy Integration
+- Pandas Data Analysis
+- Data Visualization using Matplotlib
+- Database Connectivity (MySQL)
+- Graphical User Interface (Tkinter)
+
+---
+
+## 👨‍💻 Author
+
+**NILANCHAL BEHERA**
+
+- 🎓 BCA Student
+- 💻 Python Developer (Beginner)
+- 📚 Learning Data Analysis and Python Programming
+
+
+
