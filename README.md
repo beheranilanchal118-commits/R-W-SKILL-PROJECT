@@ -530,3 +530,173 @@ This project helps beginners understand:
 
 
 
+
+----------------------------------------------------------------- LOGIC BOX -------------------------------------------------------------------------
+
+
+# 🎯 Pattern Generator & Number Analyzer (Python)
+
+A simple **menu-driven Python application** that demonstrates the use of loops, conditional statements, `pass`, `continue`, `break`, and user input. This project is beginner-friendly and helps in understanding Python control flow.
+
+---
+
+## 📌 Features
+
+### ⭐ Option 1 – Generate Star Pattern
+
+* Accepts the number of rows from the user.
+* Prints a right-angle triangle star (`*`) pattern.
+* Limits the maximum number of rows to **5**.
+* Stops the program if the limit is exceeded.
+
+Example:
+
+```text
+Enter number of rows: 4
+
+*
+* *
+* * *
+* * * *
+```
+
+---
+
+### ⭐ Option 2 – Analyze a Range of Numbers
+
+* Takes a starting number and an ending number.
+* Identifies each number as **Even** or **Odd**.
+* Calculates the **sum of all numbers** in the given range.
+* Validates that the ending number is greater than the starting number.
+
+Example:
+
+```text
+Enter the start of the range: 1
+Enter the end of the range: 5
+
+Number 1 is Odd
+Number 2 is Even
+Number 3 is Odd
+Number 4 is Even
+Number 5 is Odd
+
+Sum of all numbers from 1 to 5 is: 15
+```
+
+---
+
+### ⭐ Option 3 – Exit
+
+Safely exits the program.
+
+---
+
+### ⭐ Special Commands
+
+#### `pass`
+
+* Skips the current choice without performing any action.
+* Returns to the main menu.
+
+#### `continue`
+
+* Displays a message and allows the user to return to the main menu after pressing Enter.
+
+---
+
+## 🛠️ Concepts Used
+
+* Python `while` loop
+* `if`, `elif`, `else`
+* `for` loop
+* User input
+* Pattern printing
+* Even/Odd number checking
+* Range operations
+* Sum calculation
+* `break`
+* `pass`
+* Menu-driven programming
+
+---
+
+## 📂 Project Structure
+
+```text
+Pattern-Generator-And-Number-Analyzer/
+│
+├── pattern_generator.py
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Install Python 3.x.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the program:
+
+```bash
+python pattern_generator.py
+```
+
+---
+
+## 💻 Sample Menu
+
+```text
+=============================================
+*** Welcome to Pattern Generate and Number Analyze ***
+=============================================
+
+1. Generate A Pattern
+2. Analyze A Range of Numbers
+3. Exit
+
+Write pass for Skip the Choice.
+Write continue to Skip the Condition.
+```
+
+---
+
+## 🎯 Learning Objectives
+
+This project helps beginners understand:
+
+* Menu-driven programming
+* Decision making
+* Looping concepts
+* Pattern generation
+* Number analysis
+* Python control statements (`break`, `pass`, and `continue`)
+* User interaction using `input()`
+
+---
+
+## 🚀 Future Improvements
+
+* Add more pattern types.
+* Prime number checker.
+* Fibonacci series.
+* Number guessing game.
+* Mathematical operations.
+* File handling for saving results.
+* Exception handling for invalid inputs.
+* Colorful terminal output.
+
+---
+
+## 👨‍💻 Author
+
+**NILANCHAL BEHERA**
+
+Python Beginner Projects | Learning Python Programming
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and educational purposes.
